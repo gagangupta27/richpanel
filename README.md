@@ -10,7 +10,7 @@ npm start
 
 
 
-![](https://firebasestorage.googleapis.com/v0/b/richpanel-ae850.appspot.com/o/Capture.PNG?alt=media&token=e2156636-98f7-43ce-a655-ee05540cae16)
+![](https://firebasestorage.googleapis.com/v0/b/richpanel-ae850.appspot.com/o/Capture2.PNG?alt=media&token=a8140332-d86f-456d-b580-74eab8979d10)
 
 ![](https://firebasestorage.googleapis.com/v0/b/richpanel-ae850.appspot.com/o/Capture3.PNG?alt=media&token=2688a7dd-521e-4072-8ed8-2c996cb6e1cb)
 
